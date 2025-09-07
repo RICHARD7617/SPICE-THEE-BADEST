@@ -2,10 +2,10 @@
 
 This is a Multidevice WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
-<div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=SPICE-THEE-BADDEST;Multi+Device+Whatsapp+Bot;Coded+By+His Excellency" alt="Typing SVG" />
-  </a> 
+<div>
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+SPICE+THEE+BADDEST;FAST++SECURE++TECH" alt="Animated Typing SVG" />
+</p>
 </div> 
 
 <div align="center"> 
@@ -192,3 +192,4 @@ Copyright (c) 2025 His Excellency. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
+
