@@ -8,8 +8,8 @@ This is a Multidevice WhatsApp bot built using the Baileys library for group man
 </p>
 </div> 
 <p align="center">
-  <a href="https://github.com/novaxmd/BMB-XMD-DATA/raw/refs/heads/main/bmb.jpg">
-    <img src="https://files.catbox.moe/eiv0bh.jpg" width="100%" height="auto">
+  <a>
+    <img src="file:///C:/Users/User/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/C1E39D912D21C91DCE811D6DA9929AE8/WhatsApp%20Image%202025-09-07%20at%2022.45.47_9f27e688.jpg" width="100%" height="auto">
   </a>
 </p>
 
@@ -201,5 +201,6 @@ Copyright (c) 2025 His Excellency. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
+
 
 
