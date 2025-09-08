@@ -1,6 +1,6 @@
 # 🤖 SPICE-THEE-BADDEST
 
-This is a Multidevice WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
+This is a Multidevice WhatsApp bot built using the Baileys library for group management.It's designed to help admins efficiently manage WhatsApp groups.
 
 <div>
   <p align="center">
@@ -124,9 +124,8 @@ a>
 - **Sticker creation** with `.sticker`
 - **Anti-link detection** for group safety
 - **Warn and manage group members** with admin control
+
 - 
-*N/B-This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of Openai.
-Our AI features use random APIs to run, so sometimes they may be down.
 ---
 
 ## 📖 About
@@ -230,6 +229,7 @@ Copyright (c) 2025 His Excellency. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
+
 
 
 
