@@ -40,7 +40,7 @@ This is a Multidevice WhatsApp bot built using the Baileys library for group man
 
 ### Step 1: Fork the Repository
 
-Click the button below to fork the Knight Bot repository to your GitHub account:
+Click the button below to fork SPICE-THEE-BADDEST repository to your GitHub account:
 
 <div align="center">
   <a href="https://github.com/RICHARD7617/SPICE-THEE-BADEST/fork">
@@ -104,7 +104,7 @@ For further customization and setup guidance, click the button below:
 
 <div align="center">
 
-<a href="https://api.whatsapp.com/send?phone=254116813644&text=Hello+His excellency+dev+i+need+your+Help+..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+<a href="https://api.whatsapp.com/send?phone=254116813644&text=Hello+SPICE-THEE-BADDEST+dev+i+need+your+Help+..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
 a>
   </a>
   <a href="https://chat.whatsapp.com/Gpbw4BTM2T7LKDRkUWMNf7?mode=ems_copy_t">
@@ -149,7 +149,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 
     ```bash
     git clone https://github.com/RICHARD7617/SPICE-THEE-BADEST.git
-    cd Knightbot-MD
+    cd SPICE-THEE-BADDEST 
     ```
 
 2. **Install the dependencies:**
@@ -229,6 +229,7 @@ Copyright (c) 2025 His Excellency. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
+
 
 
 
