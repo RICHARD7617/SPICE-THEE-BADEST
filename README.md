@@ -11,19 +11,19 @@ This is a Multidevice WhatsApp bot built using the Baileys library for group man
 ---
 <p align="center">
 
-[![Nick Hunter](https://github.com/HunterNick2.png?lenght=50width=50)](https://github.com/HunterNick2)
+[![Nick Hunter](https://github.com/RICHARD7617.png?lenght=50width=50)](https://github.com/RICHARD7617)
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=RAVEN+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SPICE+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝗡𝗶𝗰𝗸_𝗛𝘂𝗻𝘁𝗲𝗿-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-HIS_EXCELLENCY-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/HunterNick2?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/HunterNick2?label=Followers&style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HunterNick2/RAVEN-BOT?&style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/HunterNick2/RAVEN-BOT?style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HunterNick2/RAVEN-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/RICHARD7617?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/RICHARD7617?label=Followers&style=social"></a>
+<a href="https://github.com/RICHARD7617/SPICE-THEE-BADEST/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RICHARD7617/SPICE-THEE-BADEST?&style=social"></a>
+<a href="https://github.com/RICHARD7617/SPICE-THEE-BADEST/network/members"><img title="Fork" src="https://img.shields.io/github/forks/RICHARD7617/SPICE-THEE-BADEST?style=social"></a>
+<a href="https://github.com/RICHARD7617/SPICE-THEE-BADEST/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RICHARD7617/SPICE-THEE-BADEST?label=Watching&style=social"></a>
 </p>
  
 
@@ -31,45 +31,9 @@ This is a Multidevice WhatsApp bot built using the Baileys library for group man
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=254114660061&text=Hello+Raven+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=254116813644&text=Hello+His excellency+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
 
 
-***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/Baileys)***
-
-
-## DISCLAIMER
-- Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting.
-
-- Do not delete the credits given,  you can add yourself instead.
-
-## FEATURES
-This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of Openai.
-
-Our AI features use random APIs to run, so sometimes they may be down.
-
- SET-UP
-
-## ` Fork this repo`
-<p align="centre">
-<a href="https://github.com/HunterNick2/RAVEN-BOT/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-BOT" width="160"></a>
-<p/>
-
-  
-## ` Pair onrender`
-<p align="centre">
-<a href="https://pairing-raven.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
-<p/>
-            
-
-###  ` Deploy to Heroku`
-<p align="center">
-     <a href="https://verify-me-umber.vercel.app/">
-       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
-     </a>
- </p>
- 
-
-    
 ---
 
 ## 🚀 STEPS TO DEPLOY
@@ -121,6 +85,14 @@ For further customization and setup guidance, click the button below:
 </div>
 
 
+###  ` Deploy to Heroku`
+<p align="center">
+     <a href="https://verify-me-umber.vercel.app/">
+       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
+     </a>
+ </p>
+ 
+
 ### Deploy Now on Below Panel
 <div align="center">
 <a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
@@ -150,12 +122,14 @@ For further customization and setup guidance, click the button below:
 - **Sticker creation** with `.sticker`
 - **Anti-link detection** for group safety
 - **Warn and manage group members** with admin control
-
+- 
+*N/B-This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of Openai.
+Our AI features use random APIs to run, so sometimes they may be down.
 ---
 
 ## 📖 About
 
-The Knight WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
+SPICE-THEE-BADDEST assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
 
 It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
 
@@ -217,14 +191,20 @@ If you like this project, please give it a [⭐️ star on GitHub](!https://gith
 
 - [His Excellency](https://github.com/RICHARD7617/SPICE-THEE-BADEST)
 - [Baileys](https://github.com/adiwajshing/Baileys)
-- [TechGod143](https://github.com/TechGod143) for pair code
-- [Dgxeon](https://github.com/Dgxeon) for pair code
+- [Hisexcellencytech](https://github.com/RICHARD7617) for pair code
+- [Spice-thee-baddest](https://github.com/RICHARD7617) for pair code
 
 ---
 
 ## ⚠️ Important Warning
 
 **Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
+
+## DISCLAIMER
+- Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting.
+
+- Do not delete the credits given,  you can add yourself instead.
+
 
 ## 📝 Legal
 
@@ -248,6 +228,7 @@ Copyright (c) 2025 His Excellency. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
+
 
 
 
