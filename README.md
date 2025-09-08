@@ -7,10 +7,9 @@ This is a Multidevice WhatsApp bot built using the Baileys library for group man
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+SPICE+THEE+BADDEST;FAST++SECURE++TECH" alt="Animated Typing SVG" />
 </p>
 </div> 
+
 <p align="center">
-  <a>
     <img src="https://drive.google.com/file/d/1iADB6jFT8lFsJsp1SJEoMNEmfQ2eeEab/view?usp=sharing" width="100%" height="auto">
-  </a>
 </p>
 
 ---
@@ -194,6 +193,7 @@ Copyright (c) 2025 His Excellency. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
+
 
 
 
