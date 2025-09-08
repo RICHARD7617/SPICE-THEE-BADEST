@@ -4,7 +4,7 @@ This is a Multidevice WhatsApp bot built using the Baileys library for group man
 
 <div>
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+SPICE+THEE+BADDEST;FAST++SECURE++TECH" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+SPICE+THEE+BADEST;FAST++SECURE++TECH" alt="Animated Typing SVG" />
 </p>
 </div> 
 
@@ -25,16 +25,6 @@ This is a Multidevice WhatsApp bot built using the Baileys library for group man
 <a href="https://github.com/RICHARD7617/SPICE-THEE-BADEST/network/members"><img title="Fork" src="https://img.shields.io/github/forks/RICHARD7617/SPICE-THEE-BADEST?style=social"></a>
 <a href="https://github.com/RICHARD7617/SPICE-THEE-BADEST/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/RICHARD7617/SPICE-THEE-BADEST?label=Watching&style=social"></a>
 </p>
- 
-
-## ` Contact me`
-
-<p align="center">
-
-<a href="https://api.whatsapp.com/send?phone=254116813644&text=Hello+His excellency+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-a>
-
-
 ---
 
 ## 🚀 STEPS TO DEPLOY
@@ -104,7 +94,9 @@ For further customization and setup guidance, click the button below:
 ### Join Us
 
 <div align="center">
-  <a href="https://wa.me/message/E5MT4BE7X53YK1">
+
+<a href="https://api.whatsapp.com/send?phone=254116813644&text=Hello+His excellency+dev+i+need+your+Help+..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+a>
     <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
   <a href="https://whatsapp.com/channel/0029VbAlUgXJENxyuODIle0r">
@@ -229,6 +221,7 @@ Copyright (c) 2025 His Excellency. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
+
 
 
 
