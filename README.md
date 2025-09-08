@@ -9,20 +9,13 @@ This is a Multidevice WhatsApp bot built using the Baileys library for group man
 </div> 
 <p align="center">
   <a>
-    <img src="file:///C:/Users/User/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/C1E39D912D21C91DCE811D6DA9929AE8/WhatsApp%20Image%202025-09-07%20at%2022.45.47_9f27e688.jpg" width="100%" height="auto">
+    <img src="https://drive.google.com/file/d/1iADB6jFT8lFsJsp1SJEoMNEmfQ2eeEab/view?usp=sharing" width="100%" height="auto">
   </a>
 </p>
 
 ---
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<div align="center"> 
-  <a href="https://www.youtube.com/@RichardOmondi-j5y"> 
-    <img src="https://github.com/RICHARD7617/SPICE-THEE-BADEST/blob/main/assets/bot_image.jpg" alt="SPICE-THEE-BADDEST" height="300"> 
-  </a> 
-</div>
-
 ---
 
 ## 🚀 STEPS TO DEPLOY
@@ -201,6 +194,7 @@ Copyright (c) 2025 His Excellency. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
+
 
 
 
