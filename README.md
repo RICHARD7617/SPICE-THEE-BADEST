@@ -43,7 +43,7 @@ This is a Multidevice WhatsApp bot built using the Baileys library for group man
 Click the button below to fork SPICE-THEE-BADDEST repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/RICHARD7617/SPICE-THEE-BADEST/fork">
+  <a href="https://github.com/RICHARD7617/SPICE-THEE-BADDEST/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -229,6 +229,7 @@ Copyright (c) 2025 His Excellency. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
+
 
 
 
