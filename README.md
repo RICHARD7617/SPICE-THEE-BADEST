@@ -18,11 +18,6 @@ This is a Multidevice WhatsApp bot built using the Baileys library for group man
 [![HIS EXCELLENCY](https://github.com/RICHARD7617.png?lenght=50width=50)](https://github.com/RICHARD7617)
 </p>
 <p align="center">
-  <div align="center">
-    <img src="https://drive.google.com/file/d/1iADB6jFT8lFsJsp1SJEoMNEmfQ2eeEab/view?usp=sharing"/>
-  </a>
-</div>
-
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com
                 color=d1fa02&center=true&vCenter=true&multiline=false&lines=SPICE+WHATSAPP+BOT" alt="">
   
@@ -235,6 +230,7 @@ Copyright (c) 2025 His Excellency. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
+
 
 
 
