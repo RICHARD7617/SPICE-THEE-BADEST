@@ -98,6 +98,7 @@ For further customization and setup guidance, click the button below:
 <a href="https://api.whatsapp.com/send?phone=254116813644&text=Hello+His excellency+dev+i+need+your+Help+..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
 a>
   </a>
+  <a href="https://chat.whatsapp.com/Gpbw4BTM2T7LKDRkUWMNf7?mode=ems_copy_t">
   <a href="https://whatsapp.com/channel/0029VbAlUgXJENxyuODIle0r">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
@@ -220,6 +221,7 @@ Copyright (c) 2025 His Excellency. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
+
 
 
 
