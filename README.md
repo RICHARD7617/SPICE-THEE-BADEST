@@ -31,7 +31,8 @@ This is a Multidevice WhatsApp bot built using the Baileys library for group man
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=254116813644&text=Hello+His excellency+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+<a href="https://api.whatsapp.com/send?phone=254116813644&text=Hello+His excellency+dev+i+need+your+Help+on..."><img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+a>
 
 
 ---
@@ -228,6 +229,7 @@ Copyright (c) 2025 His Excellency. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
+
 
 
 
