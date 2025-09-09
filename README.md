@@ -87,7 +87,7 @@ For further customization and setup guidance, click the button below:
 
 ###  ` Deploy to Heroku`
 <p align="center">
-     <a href="https://verify-me-umber.vercel.app/">
+     <a href="spice-thee-badest-f3ez2gj3r-richard7617s-projects.vercel.app/">
        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
      </a>
  </p>
@@ -229,6 +229,7 @@ Copyright (c) 2025 His Excellency. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
+
 
 
 
