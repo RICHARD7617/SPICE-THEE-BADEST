@@ -17,11 +17,7 @@ This is a Multidevice WhatsApp bot built using the Baileys library for group man
 
 [![HIS EXCELLENCY](https://github.com/RICHARD7617.png?lenght=50width=50)](https://github.com/RICHARD7617)
 </p>
-<p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com
-                color=d1fa02&center=true&vCenter=true&multiline=false&lines=SPICE+WHATSAPP+BOT" alt="">
-  
-</p>
+
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-HIS_EXCELLENCY-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
@@ -83,14 +79,6 @@ For further customization and setup guidance, click the button below:
     <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
   </a>
 </div>
-
-
-###  ` Deploy to Heroku`
-<p align="center">
-     <a href="https://spice-thee-badest.vercel.app/">
-       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
-     </a>
- </p>
  
 
 ### Deploy Now on Below Panel
@@ -229,6 +217,7 @@ Copyright (c) 2025 His Excellency. All rights reserved.
 This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
+
 
 
 
