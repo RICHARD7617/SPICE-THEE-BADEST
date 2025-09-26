@@ -3,7 +3,7 @@ const settings = {
   author: '‎',
   botName: "SPICE-THEE-BADDEST",
   botOwner: 'His Excellency', // Your name
-  ownerNumber: '2540116813644', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '254116813644', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
@@ -14,4 +14,5 @@ const settings = {
 };
 
 module.exports = settings;
+
 
